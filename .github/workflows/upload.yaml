@@ -1,4 +1,4 @@
-name: azure web app deployment
+name: azure web app deployment test
 on:
   push:
     branches:
