@@ -25,7 +25,6 @@ jobs:
         with:
           name: node-app
           path: .
-  
   deploy:
     runs-on: ubuntu-latest
     needs: build
