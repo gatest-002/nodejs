@@ -1,4 +1,4 @@
-name: azure web app deployment test
+name: azure web app deployment
 on:
   push:
     branches:
@@ -25,4 +25,3 @@ jobs:
         with:
           name: node-app
           path: .
-  
