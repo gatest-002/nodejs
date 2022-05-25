@@ -1,3 +1,4 @@
+name: test upload arti workflow
 on:
   workflow_dispatch:
     branches: [ main ]
